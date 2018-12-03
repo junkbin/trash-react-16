@@ -12,7 +12,7 @@ class App extends Component {
   }
 
   changeBackground() {
-    console.log("ChangeAAA");
+    console.log("Change");
     this.setState({"bg" : 'royalblue'});
   }
 
